@@ -179,3 +179,5 @@ SELECT *
 INTO Sales_Dev_info
 FROM dept_info
 WHERE dept_name IN ('Sales', 'Development');
+
+--Finished with module
